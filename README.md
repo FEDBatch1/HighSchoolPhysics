@@ -4,3 +4,7 @@ To upload with FED students
 ကိုယ်ဘာသာ လုပ်ပြီးသွားတဲ့အပိုင်းကို ဒီထဲက အပေါ်ထောင့်မှာရှိတဲ့ အစက်လေးသုံးစက်ကိုနှိပ်ပြီး upload filesနဲ့ လာတင်ပေးပါခင်ဗျာ့။
 
 laptop siteမှာ add file (upload files)နဲ့ လာတင်ပေးပါဗျာ့။
+
+
+19.2.2024(FED001)
+intro
