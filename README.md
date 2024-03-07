@@ -25,4 +25,6 @@ experiment projectsမှန်သမျှကို အဲ့လိုလေး
 27.2. 2024 (FED002 ,010) Ch 1&2 Lecture noteထည့်
 
 29.2.2024 (FED002) lecture note များထည့်
+March 7, 2024 (FED002) Experiment videos (Average velocity) u tube linkချိတ်
+
 
