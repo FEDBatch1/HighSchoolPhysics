@@ -1,7 +1,7 @@
 # HighSchoolPhysics
 ဒီနေ့လုပ်သွားတဲ့အကြောင်းအရာတွေကို အပေါ်ဆုံးမှာ တင်ပေးပါ။
 
-14.3.2024(William) Interactive physics file နှစ်ခု က အတူတူပဲမို့ တစ်ခုထဲပေါင်းလိုက်ပါတယ်
+14.3.2024(William) Interactive physics file နှစ်ခု က အတူတူပဲမို့ တစ်ခုထဲပေါင်းလိုက်ပါတယ်။ lecture noteတွေအတွက် class="but"ကို သုံးပေးပါ (but=button)
 
 12.3.2024(William) rebuild the website
 ဓာတ်ပုံတွေထည့်တဲ့အခါမှာ
