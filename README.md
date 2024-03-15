@@ -1,6 +1,8 @@
 # HighSchoolPhysics
 ဒီနေ့လုပ်သွားတဲ့အကြောင်းအရာတွေကို အပေါ်ဆုံးမှာ တင်ပေးပါ။
 
+15.3.2024(William) experiment pdf fileတွေအတွက် folderကြီးခွဲမနေပါနဲ့၊ imgထဲမှာပဲ ရောချိတ်လိုက်ပါ။ တစ်ခု နှစ်ခုအတွက်နဲ့ folderခွဲရတာ ပိုအလုပ်ရှုပ်မယ်ထင်လို့ပါ။
+
 14.3.2024(William) Interactive physics file နှစ်ခု က အတူတူပဲမို့ တစ်ခုထဲပေါင်းလိုက်ပါတယ်။ lecture noteတွေအတွက် class="but"ကို သုံးပေးပါ (but=button)
 
 12.3.2024(William) rebuild the website
