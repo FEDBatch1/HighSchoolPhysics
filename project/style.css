@@ -6,6 +6,11 @@
   user-select: none;
   font-family: 'Poppins', sans-serif;
 }
+
+body{
+  background-color: gray;
+}
+
 nav{
   position: absolute;
   top: 20%;
